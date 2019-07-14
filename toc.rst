@@ -8,5 +8,7 @@ Table of contents
    index.md
 
    intro.md
+   
+   t-test.md
 
    
