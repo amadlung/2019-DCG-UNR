@@ -3,7 +3,7 @@ Instructors
 
 
 
-### Here are your instructors for the workshop:
+### Here are your professors for the class:
 
 [![](/img/Madlung.jpeg)](/img/Madlung.jpeg)
 * __AM__ - University of Puget Sound
