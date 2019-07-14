@@ -10,6 +10,6 @@ Instructors
     * ccc
     * ddd
 
-[![](/img/SateeshPeri2.png)](/img/SateeshPeri2.png)
+
 * __SW__ - University of Puget Sound
     * eee
